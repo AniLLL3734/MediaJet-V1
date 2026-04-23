@@ -566,7 +566,7 @@ namespace MediaJet_V1
         {
             try
             {
-                Process.Start("https://github.com/mrfatihdursun"); // Yönlendirme (Geliştiricinin GitHub hesabı varsa değiştirilebilir)
+                Process.Start("https://github.com/AniLLL3734"); // Kullanıcının gerçek GitHub hesabı
             }
             catch (Exception ex)
             {
